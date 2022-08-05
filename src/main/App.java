@@ -1,7 +1,5 @@
-package src;
-/**
- * App
- */
+package com.example;
+
 
  /** Psuedo Code for Banking App
   * 1.) Create a function that ask user to login (if returning)
@@ -37,6 +35,9 @@ package src;
 
 
   */
+
+
+
   public class App {
 
     

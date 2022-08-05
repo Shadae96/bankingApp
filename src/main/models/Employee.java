@@ -1,4 +1,4 @@
-package src;
+package models;
 
 public class Employee {
     public String name;

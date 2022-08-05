@@ -1,4 +1,4 @@
-package src;
+package models;
 
 public class Customer {
    public String name;
