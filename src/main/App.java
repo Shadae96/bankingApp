@@ -8,10 +8,12 @@ package com.example;
         3.)if Yes, then login
         4.) If no, prompt them to re-enter credentials or sign up
 
+        
   2.) Create a function to create a new user in the system
     1.) Asks user to input  username and password
     2.) Store the username, role and password in the database
     3.) Submit account request to  employee for approval
+
 
   3.) Once the user(customer) is logged in prompt them to 
         1.) View balance on current account(s) --- allow each user to have mulitple accounts

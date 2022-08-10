@@ -13,7 +13,7 @@ private String savingsaccount = "";
 
 // Calling the U ser object and giving it input
 
-public User( String username, String password, String firstname, String lastname) {
+public User(String username, String password, String firstname, String lastname) {
     this.username = username;
     this.password = password;
     this.firstname = firstname;
