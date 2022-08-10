@@ -3,11 +3,12 @@
  * 
  */
 
-
-
-
 package store;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class Store {
     
+    public static List <User> users = new ArrayList <>();
 }

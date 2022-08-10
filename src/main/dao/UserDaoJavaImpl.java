@@ -21,9 +21,22 @@ public List <User> getAllUsers(){
 
     User userFromDb = null;
 
-    for 
-
-
- }
+    for (User user : Store.users){
+        if (user == null);
+            break;
+    }
+        if(user.getUsername().equals(username)){
+            userFromDb = user;
+            break;
+        }
+ }      
+    return userFromDb;
 
 }
+
+@Override   
+public void createUser (User user) {
+    Store.users.add(user);
+}
+}
+

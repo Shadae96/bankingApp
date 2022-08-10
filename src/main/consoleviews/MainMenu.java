@@ -11,6 +11,25 @@ import com.example.util.inputUtil;
 
 public class MainMenu {
 
+    UserService userService = new UserService();
+    InputUtil inputUtil = new InputUtil();
+
+    public void view(){
+
+        Scanner scanner = new Scanner(System.in);
+        Boolean running = true;
+
+
+        
+
+
+
+
+
+
+
+
+    }
 
     
 }
