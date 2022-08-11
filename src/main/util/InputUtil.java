@@ -11,5 +11,11 @@ public class InputUtil {
         System.out.print(msg);
         return scanner.nextLine();
     }
+
+    public Integer retrieveInt(String msg){
+        
+
+
+    }
     
 }
