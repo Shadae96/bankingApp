@@ -1,12 +1,13 @@
-package src.main.consoleviews;
+package com.example.consoleviews;
 
 import java.util.Scanner;
-import src.main.models.customer;
-import src.main.models.employee;
-import src.main.models.user;
 
-import src.main.services.store;
-import src.main.util.inputUtil;
+import com.example.models.customer;
+import com.example.models.employee;
+import com.example.models.user;
+
+import com.example.services.store;
+import com.example.util.inputUtil;
 
 
 public class MainMenu {
